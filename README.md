@@ -1,8 +1,9 @@
 
 # 🎈 🎉 Automobile Dashboard with Power BI 🎊 🎈 📚 
 
-- Pada Repository ini, terdiri dari file power BI dan dataset untuk membuat sebuah Dashboard Sederhana.
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
+
+- Pada Repository ini, terdiri dari file power BI dan dataset untuk membuat sebuah Dashboard Sederhana.
 
 # Dataset
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
